@@ -126,10 +126,12 @@ body {
     text-align: center;
 }
 
-.map-div {
-    height: 30rem;
-    margin:  auto;
-    border-radius: 5%;
+.map {justify-content: center;
+    align-items:center ;
+
+    width:90%;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 
 .feedback {
